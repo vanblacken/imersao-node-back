@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="History">
+    <option name="requestHistoryStates">
+      <list>
+        <requestHistoryState>
+          <option name="dateTime" value="1732484892559" />
+          <option name="id" value="1186b7e0-bf7e-4c2b-9d26-210b89cb2d62" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;descricao&quot;: &quot;uma imagem post &quot;,&#10;  &quot;imgUrl&quot;: &quot;https://placecats.com/millie/300/150&quot;,&#10;  &quot;alt&quot;: &quot;descriçaão de imagem&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7eb9fc14-70d4-43b5-ba0a-fe7a8822cbf5" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/posts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJhY2tub3dsZWRnZWQiOnRydWUsImluc2VydGVkSWQiOiI2NzQzOWYxYzVhMDRhNGU1ZmVkZjY2NDQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;acknowledged&quot;: true,&#10;  &quot;insertedId&quot;: &quot;67439f1c5a04a4e5fedf6644&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="61" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3d-DA3XiTKhJJ36VvIqVf9QChvnsrY&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 24 Nov 2024 21:48:12 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1186b7e0-bf7e-4c2b-9d26-210b89cb2d62" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;acknowledged&quot;:true,&quot;insertedId&quot;:&quot;67439f1c5a04a4e5fedf6644&quot;}" />
+              <option name="size" value="61" />
+              <option name="time" value="50" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732484925026" />
+          <option name="id" value="bba8722d-44bf-4471-989f-57644ed3037a" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;descricao&quot;: &quot;uma imagem post &quot;,&#10;  &quot;imgUrl&quot;: &quot;https://placecats.com/millie/300/150&quot;,&#10;  &quot;alt&quot;: &quot;descriçaão de imagem&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7eb9fc14-70d4-43b5-ba0a-fe7a8822cbf5" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/posts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siX2lkIjoiNjc0MzgzOWYyODVmNzNjYTVlNjQ2NzY3IiwiZGVzY3JpY2FvIjoidW1hIGltYWdlbSIsImltZ1VybCI6Imh0dHBzOi8vcGxhY2VjYXRzLmNvbS9taWxsaWUvMzAwLzE1MCIsImFsdCI6ImRlc2NyacOnYcOjbyBkZSBpbWFnZW0ifSx7Il9pZCI6IjY3NDM4NDQxMjg1ZjczY2E1ZTY0Njc2OCIsImRlc2NyaWNhbyI6ImNhY2hvcnJvIGZvZm8iLCJpbWdVcmwiOiJodHRwczovL3NvdXJjZS51bnNwbGFzaC5jb20vcmFuZG9tLzMwMHgxNTAvP2RvZyxjdXRlIiwiYWx0IjoiZGVzY3Jpw6dhw6NvIGRlIGltYWdlbSJ9LHsiX2lkIjoiNjc0Mzg0NDgyODVmNzNjYTVlNjQ2NzY5IiwiZGVzY3JpY2FvIjoiQWJzdHJhdG9zIiwiaW1nVXJsIjoiaHR0cHM6Ly9zb3VyY2UudW5zcGxhc2guY29tL3JhbmRvbS8zMDB4MTUwLz9hcnQsYWJzdHJhY3QiLCJhbHQiOiJkZXNjcmnDp2HDo28gZGUgaW1hZ2VtIn0seyJfaWQiOiI2NzQzOWYxYzVhMDRhNGU1ZmVkZjY2NDQiLCJkZXNjcmljYW8iOiJ1bWEgaW1hZ2VtIHBvc3QgIiwiaW1nVXJsIjoiaHR0cHM6Ly9wbGFjZWNhdHMuY29tL21pbGxpZS8zMDAvMTUwIiwiYWx0IjoiZGVzY3Jpw6dhw6NvIGRlIGltYWdlbSJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;_id&quot;: &quot;6743839f285f73ca5e646767&quot;,&#10;    &quot;descricao&quot;: &quot;uma imagem&quot;,&#10;    &quot;imgUrl&quot;: &quot;https://placecats.com/millie/300/150&quot;,&#10;    &quot;alt&quot;: &quot;descriçaão de imagem&quot;&#10;  },&#10;  {&#10;    &quot;_id&quot;: &quot;67438441285f73ca5e646768&quot;,&#10;    &quot;descricao&quot;: &quot;cachorro fofo&quot;,&#10;    &quot;imgUrl&quot;: &quot;https://source.unsplash.com/random/300x150/?dog,cute&quot;,&#10;    &quot;alt&quot;: &quot;descriçaão de imagem&quot;&#10;  },&#10;  {&#10;    &quot;_id&quot;: &quot;67438448285f73ca5e646769&quot;,&#10;    &quot;descricao&quot;: &quot;Abstratos&quot;,&#10;    &quot;imgUrl&quot;: &quot;https://source.unsplash.com/random/300x150/?art,abstract&quot;,&#10;    &quot;alt&quot;: &quot;descriçaão de imagem&quot;&#10;  },&#10;  {&#10;    &quot;_id&quot;: &quot;67439f1c5a04a4e5fedf6644&quot;,&#10;    &quot;descricao&quot;: &quot;uma imagem post &quot;,&#10;    &quot;imgUrl&quot;: &quot;https://placecats.com/millie/300/150&quot;,&#10;    &quot;alt&quot;: &quot;descriçaão de imagem&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="601" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;259-ovrJ3by5VqpI27zb5ex3brlEBR4&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 24 Nov 2024 21:48:45 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="bba8722d-44bf-4471-989f-57644ed3037a" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;_id&quot;:&quot;6743839f285f73ca5e646767&quot;,&quot;descricao&quot;:&quot;uma imagem&quot;,&quot;imgUrl&quot;:&quot;https://placecats.com/millie/300/150&quot;,&quot;alt&quot;:&quot;descriçaão de imagem&quot;},{&quot;_id&quot;:&quot;67438441285f73ca5e646768&quot;,&quot;descricao&quot;:&quot;cachorro fofo&quot;,&quot;imgUrl&quot;:&quot;https://source.unsplash.com/random/300x150/?dog,cute&quot;,&quot;alt&quot;:&quot;descriçaão de imagem&quot;},{&quot;_id&quot;:&quot;67438448285f73ca5e646769&quot;,&quot;descricao&quot;:&quot;Abstratos&quot;,&quot;imgUrl&quot;:&quot;https://source.unsplash.com/random/300x150/?art,abstract&quot;,&quot;alt&quot;:&quot;descriçaão de imagem&quot;},{&quot;_id&quot;:&quot;67439f1c5a04a4e5fedf6644&quot;,&quot;descricao&quot;:&quot;uma imagem post &quot;,&quot;imgUrl&quot;:&quot;https://placecats.com/millie/300/150&quot;,&quot;alt&quot;:&quot;descriçaão de imagem&quot;}]" />
+              <option name="size" value="601" />
+              <option name="time" value="30" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+      </list>
+    </option>
+  </component>
+</project>

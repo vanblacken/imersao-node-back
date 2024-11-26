@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;descricao&quot;: &quot;uma imagem post &quot;,&#10;  &quot;imgUrl&quot;: &quot;https://placecats.com/millie/300/150&quot;,&#10;  &quot;alt&quot;: &quot;descriçaão de imagem&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7eb9fc14-70d4-43b5-ba0a-fe7a8822cbf5" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/upload" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="0790506a-1805-4870-8fcc-b3d353b27c20" />
+    <option name="version" value="4" />
+  </component>
+</project>
